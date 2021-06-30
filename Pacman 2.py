@@ -1,6 +1,7 @@
 #Edgar Zúñiga Sánchez
 #Axel Uzeta Gomez 
 #Regina Vega Francia
+# Irina Kaminsky
 from random import choice
 from turtle import *
 from freegames import floor, vector
