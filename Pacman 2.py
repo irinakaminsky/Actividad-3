@@ -1,5 +1,5 @@
 #Edgar Zúñiga Sánchez
-
+#Axel Uzeta Gomez
 from random import choice
 from turtle import *
 from freegames import floor, vector
